@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Av-nish
-- 👀 I’m interested in Open Source
+- 👀 I’m interested in Robotics and IOT.
 - 🌱 I’m currently learning Programming.
 - 💞️ I’m looking to collaborate on (i don't know)
 - 📫 How to reach me (email)
